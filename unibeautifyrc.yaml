@@ -1,0 +1,4 @@
+HTML:
+  beautifiers:
+    - Pretty Diff
+    - JS-Beautify

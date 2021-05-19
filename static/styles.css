@@ -1,6 +1,9 @@
 h1 {
   color: palevioletred;
 }
+.thisisintro {
+  text-align: center;
+}
 
 .navbar {
   background-color: lightgray;
