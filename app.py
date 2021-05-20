@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request, redirect, url_for
-from flask.wrappers import Response
 from locations import Locations
 from forms import AddLocationForm
 
